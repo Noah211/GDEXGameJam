@@ -11,24 +11,32 @@ Arists: Michael, Claire
 
 Player 1 Controls
 -----------------
-•W: Move up
-•S: Move down
-•A: Move left
-•D: Move right
-•F: Use item/pass item to other player (if beside each other at divider)
+â€¢W: Move up
+â€¢S: Move down
+â€¢A: Move left
+â€¢D: Move right
+â€¢F: Use item/pass item to other player (if beside each other at divider)
 
 Player 2 Controls
 -----------------
-•Up: Move up
-•Down: Move down
-•Left: Move left
-•Right: Move right
-•Right Ctrl: Use item/pass item to other player (if beside each other at divider)
+â€¢Up: Move up
+â€¢Down: Move down
+â€¢Left: Move left
+â€¢Right: Move right
+â€¢Right Ctrl: Use item/pass item to other player (if beside each other at divider)
 
 Misc. Controls
 --------------
-•Esc: Exit the Game
-•Y: Restart last checkpoint
+â€¢Esc: Exit the Game
+â€¢Y: Restart last checkpoint
+
+Youtube Video
+-------------
+
+
+itch.io
+-------
+https://noah211.itch.io/the-institution
 
 How to Run
 ----------
