@@ -7,7 +7,7 @@ The Institution is a 2D Top-Down where two players must work together to complet
 
 Unity Developer: Noah Logan
 Musician: Noah Green
-Arists: Michael, Claire
+Artists: Michael, Claire
 
 Player 1 Controls
 -----------------
