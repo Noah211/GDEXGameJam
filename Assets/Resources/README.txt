@@ -32,7 +32,7 @@ Misc. Controls
 
 Youtube Video
 -------------
-
+https://www.youtube.com/watch?v=KD3qSEi1RvQ
 
 itch.io
 -------
@@ -40,5 +40,5 @@ https://noah211.itch.io/the-institution
 
 How to Run
 ----------
-Once the zip file has been downloaded, extract it, and navigate to "GDEXGameJam\Builds" and left click twice on "GDEXGameJam.exe" to run.
+Once the zip file has been downloaded, extract it, and navigate to GDEXGameJam\Builds\TheInstitution and left click twice on "GDEXGameJam.exe" to run.
 
