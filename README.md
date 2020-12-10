@@ -1,6 +1,7 @@
 GDEX Game Jam 2020
 
 Theme: Community
+
 Game: The Institution
 
 The Institution is a 2D Top-Down where two players must work together to complete interesting puzzles.
